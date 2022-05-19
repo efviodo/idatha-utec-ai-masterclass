@@ -27,6 +27,18 @@ Todos los notebooks utilizados para la parte práctica disponibles en la carpeta
 2. 01_Computer_Vision_MNIST.ipynb
 3. 02_Computer_Vision_CIFAR_10.ipynb
 
+## Agradecimientos
+
+Gran parte del material presente en las slides se basa en contenido de los siguientes cursos, quienes a su vez en algunos casos también
+se basan en material disponible en la web para algunos conceptos:
+
+1. [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/)
+
+2. [Aprendizaje Profundo para Visión Artificial (DLvis), IIE - Fing](https://eva.fing.edu.uy/course/view.php?id=1046)
+
+3. [Deep Learning Specialization Andrew NG DeepLearning.ai](https://www.deeplearning.ai/program/deep-learning-specialization/)
+
+
 ## Equipo
 
 Este repositorio junto con todo el material aquí presente es mantenido por:

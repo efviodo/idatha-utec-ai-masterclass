@@ -1,3 +1,5 @@
+![landing](https://github.com/efviodo/idatha-utec-ai-masterclass/blob/main/figures/Masterclass%20Landing%20St.%20Pepper%20edition%20.svg)
+
 # IDATHA - UTEC: AI Masterclass
 
 Esta es una masterclass sobre Inteligencia Artificial (IA) y en particular sobre dos grandes áreas dentro de la IA: Aprendizaje Automático (Machine Learning) y Aprendizaje Produndo (Deep Learning).
